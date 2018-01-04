@@ -2,6 +2,6 @@
 2d wizard game
 
 
-http://browseradventures.com/2d%20platform_2/ 
+http://browseradventures.com/
 
 if game doesnt load refresh
